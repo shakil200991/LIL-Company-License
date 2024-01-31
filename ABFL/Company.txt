@@ -1,0 +1,1 @@
+ table.Rows.Add(1, "Aftab Feed Product Ltd.", "AFPL", "Genikos_Erp_New_Dev");

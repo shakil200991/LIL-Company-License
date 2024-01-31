@@ -1,0 +1,2 @@
+table.Rows.Add(1, "Stone Bricks Ltd.", "SBL", "GENIKOS_VAT");
+table.Rows.Add(2, "Stone Bricks Ltd. (Old)", "OLD", "GENIKOS_VAT_OLD");

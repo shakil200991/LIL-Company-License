@@ -1,0 +1,5 @@
+ table.Rows.Add(1, "DESHBANDHU POLYMER LIMITED", "DBPL", "Genikos_Vat_DBPL");
+ table.Rows.Add(2, "DESHBANDHU SUGAR MILLS LTD", "DBSML", "Genikos_Vat_DBSML");
+ table.Rows.Add(3, "DESHBANDHU PACKAGING LIMITED", "DBPGL", "Genikos_Vat_DBPGL");
+ table.Rows.Add(4, "DESHBANDHU CEMENT MILLS LTD", "DBCML", "Genikos_Vat_DBCML");
+ table.Rows.Add(5, "DESHBANDHU FOOD & BEVERAGE LTD", "DBFBL", "Genikos_Vat_DBFBL");

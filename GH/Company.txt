@@ -1,0 +1,12 @@
+
+            table.Rows.Add(1, "Golden Harvest Agro Industries Ltd.", "Agro", "IAAS_ERP");
+            table.Rows.Add(2, "Golden Harvest Ice Cream Ltd.", "Ice Cream", "IAAS_ERP_GHI");
+            table.Rows.Add(3, "Golden Harvest Foods Ltd.", "Foods", "IAAS_ERP_GHF");
+            table.Rows.Add(4, "Golden Harvest Dairy Ltd.", "Dairy", "IAAS_ERP_GHD");
+            table.Rows.Add(5, "Golden Harvest Developers Ltd.", "Developers", "IAAS_ERP_DEVELOPER");
+            table.Rows.Add(6, "Golden Harvest InfoTech Ltd.", "Info Tech", "IAAS_ERP_INFOTECH");
+            table.Rows.Add(7, "Golden Harvest QSR Ltd.", "QSR", "IAAS_ERP_QSR");
+            table.Rows.Add(8, "Brain Train Studio Ltd.", "Brain Train", "IAAS_ERP_STUDIO");
+            table.Rows.Add(9, "Samdani Art Foundation", "Samdani Art", "IAAS_ERP_ART");
+            table.Rows.Add(19, "Factory", "Factory", "IAAS_ERP_FAC");
+            table.Rows.Add(20, "Corporate (GHC)", "Corporate", "IAAS_ERP_GHC");

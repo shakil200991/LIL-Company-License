@@ -1,0 +1,101 @@
+  
+
+//------------------ Logic Infotech VAT Demo=-------------------------------
+
+            table.Rows.Add(1, "Logic Infotech Ltd. (Demo)", "LIL", "Genikos_Vat_LIL");
+           
+
+
+ //-------Arif Agro Industries Ltd. --------------------
+
+          table.Rows.Add(1, "Arif Agro Industries Ltd.", "AAIL", "Genikos_Erp_AAIL");
+
+ //-------Wipro --------------------
+
+            table.Rows.Add(1, "Wipro", "WIPRO", "Genikos_Vat_WIPRO");
+
+          
+ //-------Acnabin --------------------
+
+            table.Rows.Add(1, "ACNABIN Chartered Accountants", "ACNABIN", "Genikos_Vat_ACNABIN");
+
+
+
+//Arif Agro
+
+            // table.Rows.Add(1, "Arif Agro Industries Ltd.", "AAIL", "Genikos_Erp_Arif");
+
+            //Aftab Group
+
+            // table.Rows.Add(1, "Aftab Bahumukhi Farms Ltd.", "ABFL", "Genikos_Erp");
+
+          
+
+
+            //table.Rows.Add(1, "Logic Software Ltd.", "LSL", "Genikos_Vat");
+
+            //Golden Harvest Company
+
+            //table.Rows.Add(1, "Golden Harvest Agro Industries Ltd.", "Agro", "IAAS_ERP");
+            //table.Rows.Add(2, "Golden Harvest Ice Cream Ltd.", "Ice Cream", "IAAS_ERP_GHI");
+            //table.Rows.Add(3, "Golden Harvest Foods Ltd.", "Foods", "IAAS_ERP_GHF");
+            //table.Rows.Add(4, "Golden Harvest Dairy Ltd.", "Dairy", "IAAS_ERP_GHD");
+            //table.Rows.Add(5, "Golden Harvest Developers Ltd.", "Developers", "IAAS_ERP_DEVELOPER");
+            //table.Rows.Add(6, "Golden Harvest InfoTech Ltd.", "Info Tech", "IAAS_ERP_INFOTECH");
+            //table.Rows.Add(7, "Golden Harvest QSR Ltd.", "QSR", "IAAS_ERP_QSR");
+            //table.Rows.Add(8, "Brain Train Studio Ltd.", "Brain Train", "IAAS_ERP_STUDIO");
+            //table.Rows.Add(9, "Samdani Art Foundation", "Samdani Art", "IAAS_ERP_ART");
+            //table.Rows.Add(19, "Factory", "Factory", "IAAS_ERP_FAC");
+            //table.Rows.Add(20, "Corporate (GHC)", "Corporate", "IAAS_ERP_GHC");
+
+
+            //-------Fariha VAT Company -----
+
+            //table.Rows.Add(1, "Fariha Spinning Mills Ltd.", "Fariha Spinning", "GENIKOS_VAT_FSML");
+            //table.Rows.Add(2, "Fariha Green Mood Leathers Ltd.", "Fariha Leathers", "GENIKOS_VAT_FGML");
+            //table.Rows.Add(3, "Fariha Green Mood Jute & Coaters", "Fariha Jute", "GENIKOS_VAT_FGMJC");
+            //table.Rows.Add(4, "Fahim Jute Diversified Industries", "Fahim Jute", "GENIKOS_VAT_FJDI");
+            //table.Rows.Add(5, "Fahim Textile Mills Ltd.", "Fahim Textile", "GENIKOS_VAT_FTML");
+
+
+            //----------------------Stone Bricks Ltd----------------------------------------------
+
+             	table.Rows.Add(1, "Stone Bricks Ltd.", "SBL", "GENIKOS_VAT");
+ 		table.Rows.Add(2, "Stone Bricks Ltd. (Old)", "OLD", "GENIKOS_VAT_OLD");
+
+            //------------------ Dana Group-------------------------------
+
+            //table.Rows.Add(1, "Dana Engineers International Limited", "DEIL", "GENIKOS_VAT_DEIL");
+            //table.Rows.Add(2, "Dana Petroleum Limited", "DPL", "GENIKOS_VAT_DPL");
+            //table.Rows.Add(3, "Stridden Engineering Limited", "DSEL", "GENIKOS_VAT_DSEL");
+
+            //------------------BKMEA------------------------------ -
+            // table.Rows.Add(1, "Bangladesh Knitwear Manufacturers and Exporters Association", "BKMEA", "Genikos_Bkmea");
+
+
+            //----------------------CABLE INDUSTRIES OF BANGLADESH----------------------------------------------
+
+            // table.Rows.Add(1, "Bangladesh Cable Shilpa Limited", "BCSL", "Genikos_Erp_BCSL");
+            //table.Rows.Add(1, "Cable Industries of Bangladesh Ltd. Change to Bangladesh Cable Shilpo Ltd.", "CIBL", "GENIKOS_VAT");
+
+            //----------------Vivo Bangladesh----------------
+            // table.Rows.Add(1, "Haicheng Mobile Company (BD) Limited", "HMCL", "GENIKOS_VAT");
+
+            //------------------ Logic Demo=-------------------------------
+
+            //table.Rows.Add(1, "Genikos Platform Aftab", "ABFL", "Genikos_Erp_Dev");
+            //table.Rows.Add(2, "Genikos Platform VAT", "GKPV", "Genikos_VAT");
+
+            //table.Rows.Add(3, "Logic Paper Mills Ltd.", "Paper Mills", "IAAS_PAPER");
+            //table.Rows.Add(4, "Logic Tobacco Ltd.", "Tobacco", "IAAS_TOBACCO");
+            //table.Rows.Add(5, "Logic Garments Ltd.", "Garments", "IAAS_GARMENTS");
+            //table.Rows.Add(6, "Logic Trading Ltd.", "Trading", "IAAS_TRADING");
+            //table.Rows.Add(7, "Logic Service Ltd.", "Service", "IAAS_SERVICE");
+
+            //table.Rows.Add(1, "Genikos Platform ERP", "GKPE", "Genikos_Erp_Demo");
+            //table.Rows.Add(2, "Genikos Platform Property", "GKPP", "Genikos_RST");
+
+            //table.Rows.Add(3, "Logic Software Limited", "LSL", "IAAS");
+            //table.Rows.Add(50, "ERP Developer Company", "IAAS", "IAAS1");
+            //table.Rows.Add(1, "Fish and Co.", "Fish N Co.", "ERP_FISH_CO");
+            //table.Rows.Add(2, "Krispy Kreme", "Krispy Kreme", "ERP_KKB");
